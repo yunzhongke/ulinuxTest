@@ -1,0 +1,9 @@
+DESCRIPTIO10nihao   top
+
+       Bash is 888sh-compatible command language interpreter that executes
+       commands read from the standard input or from a file.  Bash also
+       incorporates useful features from the Korn and C shells (ksh and
+       csh).
+
+       Bash is intended to be a conformant300plementation
+1000abc1000nihao332nihao340nihaoabshello
